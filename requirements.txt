@@ -1,11 +1,7 @@
 BeautifulSoup4
 eyed3
 urllib3
-request
-pathlib
-requests
+youtube-dl
 mutagen
-pySmartDL
-logger
-lxml
-python-telegram-bot==12.0.0b1
+requests
+python-telegram-bot
