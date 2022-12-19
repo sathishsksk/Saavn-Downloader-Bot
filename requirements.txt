@@ -5,3 +5,10 @@ youtube-dl
 mutagen
 requests
 python-telegram-bot
+request
+pathlib
+requests
+pySmartDL
+logger
+lxml
+python-telegram-bot==12.0.0b1
