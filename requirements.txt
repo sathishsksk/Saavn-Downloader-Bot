@@ -5,7 +5,6 @@ youtube-dl
 mutagen
 requests
 python-telegram-bot
-request
 pathlib
 requests
 pySmartDL
