@@ -27,7 +27,7 @@ welcome = "Hey {} I Am Saavn Downloader \n Please Send Me Saavn Link \n Report A
 
 #Bot config
 
-bot_token ='YOUR_BOT_TOKEN_HERE'
+bot_token ='5595298904:AAExEMcbyKGA3cBdIECmFB-AD55Zx8L0uOM'
 updater = Updater(bot_token, use_context=True)
 dp = updater.dispatcher
 
